@@ -364,5 +364,16 @@
 		],
 		"fingerprint": [],
 		"nxdomain": true
+	},
+	{
+		"service": "ngrok",
+		"cname": [
+			"ngrok.io"
+		],
+		"fingerprint": [
+			" not found"
+		],
+		"nxdomain": false,
+		"checkall": true
 	}
 ]
