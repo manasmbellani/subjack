@@ -364,5 +364,17 @@
 		],
 		"fingerprint": [],
 		"nxdomain": true
+	},
+	{
+		"service": "hubspot",
+		"cname": [
+			"hubspot.net"
+		],
+		"fingerprint": [
+			"This page isn’t available",
+			"does not exist in our system"
+		],
+		"nxdomain": false,
+		"checkall": false
 	}
 ]
